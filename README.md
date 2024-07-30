@@ -1,5 +1,6 @@
 **Shipping Feature Testing Project:**
-This project tests the shipping feature, specifically focusing on the image field selection functionality. It uses modern testing techniques to ensure robustness and efficiency.
+This project tests the shipping feature, specifically focusing on the image field selection functionality. 
+It uses modern testing techniques to ensure robustness and efficiency.
 
 **Key Features**
 
